@@ -159,6 +159,12 @@
       "name": "cloud-environment-onboarding:setup",
       "path": "skills/setup/SKILL.md",
       "source": "skill://plugin_connector_1p_ed5feb9070a08191b08c81c47947bc16/setup/SKILL.md"
+    },
+    {
+      "name": "ai-shark-tank-council",
+      "path": "skills/ai-shark-tank-council/SKILL.md",
+      "source": "sediment://file_00000000ac4c820697133fddf29cf9e8",
+      "additional_source": "sediment://file_0000000005908206ab12efee8db6ddb0"
     }
   ],
   "files": [
@@ -516,6 +522,21 @@
       "path": "skills/publish-artifact-to-sites/scripts/publication-scan-streams.mjs",
       "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-scan-streams.mjs",
       "sha256": "19d54277693426fdd3db71ee3011bd6c9a1b21fe314407281404346c8f291a57"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/SKILL.md",
+      "source": "sediment://file_00000000ac4c820697133fddf29cf9e8",
+      "sha256": "07f32535635c4d437bfa0a3c7f588ebbd3ac0f7cbe854d86c589ceae92d03a2c"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/agents/openai.yaml",
+      "source": "sediment://file_00000000491081fd8167236a24d999e3",
+      "sha256": "a415bb5394a5d3ff1b84eb86041c9addd6dc90a24762b89e6d469a7b6047dc61"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/assets/icon.svg",
+      "source": "sediment://file_00000000721882069350de332304ee4f",
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
     }
   ],
   "unavailable_read_attempts": [
@@ -1058,6 +1079,13 @@
       "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
       "skill": "data-analytics:publish-artifact-to-sites",
       "resource": "skill://templates/data-app/base/src/dashboard-url-state.js"
+    }
+  ],
+  "missing_user_uploaded_resources": [
+    {
+      "skill": "ai-shark-tank-council",
+      "path": "skills/ai-shark-tank-council/references/evaluation-cases.md",
+      "status": "Referenced in uploaded SKILL.md; not supplied with the upload"
     }
   ]
 }
