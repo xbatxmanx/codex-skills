@@ -1,0 +1,1091 @@
+{
+  "skills": [
+    {
+      "name": "codex-security:assess-patch-risk",
+      "path": "skills/assess-patch-risk/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk/SKILL.md"
+    },
+    {
+      "name": "codex-security:attack-path-analysis",
+      "path": "skills/attack-path-analysis/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/SKILL.md"
+    },
+    {
+      "name": "codex-security:deep-security-scan",
+      "path": "skills/deep-security-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan/SKILL.md"
+    },
+    {
+      "name": "codex-security:define-security-policy",
+      "path": "skills/define-security-policy/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy/SKILL.md"
+    },
+    {
+      "name": "codex-security:finding-discovery",
+      "path": "skills/finding-discovery/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/SKILL.md"
+    },
+    {
+      "name": "codex-security:fix-finding",
+      "path": "skills/fix-finding/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding/SKILL.md"
+    },
+    {
+      "name": "codex-security:propose-security-hardening",
+      "path": "skills/propose-security-hardening/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening/SKILL.md"
+    },
+    {
+      "name": "codex-security:security-diff-scan",
+      "path": "skills/security-diff-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/SKILL.md"
+    },
+    {
+      "name": "codex-security:security-scan",
+      "path": "skills/security-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/SKILL.md"
+    },
+    {
+      "name": "codex-security:threat-model",
+      "path": "skills/threat-model/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/SKILL.md"
+    },
+    {
+      "name": "codex-security:track-findings",
+      "path": "skills/track-findings/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/SKILL.md"
+    },
+    {
+      "name": "codex-security:triage-finding",
+      "path": "skills/triage-finding/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/SKILL.md"
+    },
+    {
+      "name": "codex-security:validation",
+      "path": "skills/validation/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/SKILL.md"
+    },
+    {
+      "name": "codex-security:verify-fix",
+      "path": "skills/verify-fix/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/verify-fix/SKILL.md"
+    },
+    {
+      "name": "codex-security:vulnerability-writeup",
+      "path": "skills/vulnerability-writeup/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup/SKILL.md"
+    },
+    {
+      "name": "public-equity-investing:public-equity-investing",
+      "path": "skills/public-equity-investing/SKILL.md",
+      "source": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing/SKILL.md"
+    },
+    {
+      "name": "data-analytics:analyze-data-quality",
+      "path": "skills/analyze-data-quality/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/analyze-data-quality/SKILL.md"
+    },
+    {
+      "name": "data-analytics:build-dashboard",
+      "path": "skills/build-dashboard/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/SKILL.md"
+    },
+    {
+      "name": "data-analytics:build-report",
+      "path": "skills/build-report/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/SKILL.md"
+    },
+    {
+      "name": "data-analytics:create-data-context",
+      "path": "skills/create-data-context/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/SKILL.md"
+    },
+    {
+      "name": "data-analytics:design-kpis",
+      "path": "skills/design-kpis/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/design-kpis/SKILL.md"
+    },
+    {
+      "name": "data-analytics:gather-business-context",
+      "path": "skills/gather-business-context/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/gather-business-context/SKILL.md"
+    },
+    {
+      "name": "data-analytics:index",
+      "path": "skills/index/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/SKILL.md"
+    },
+    {
+      "name": "data-analytics:jupyter-notebooks",
+      "path": "skills/jupyter-notebooks/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/jupyter-notebooks/SKILL.md"
+    },
+    {
+      "name": "data-analytics:kpi-reporting",
+      "path": "skills/kpi-reporting/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/kpi-reporting/SKILL.md"
+    },
+    {
+      "name": "data-analytics:market-sizing",
+      "path": "skills/market-sizing/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/market-sizing/SKILL.md"
+    },
+    {
+      "name": "data-analytics:metric-diagnostics",
+      "path": "skills/metric-diagnostics/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/metric-diagnostics/SKILL.md"
+    },
+    {
+      "name": "data-analytics:product-business-analysis",
+      "path": "skills/product-business-analysis/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/product-business-analysis/SKILL.md"
+    },
+    {
+      "name": "data-analytics:publish-artifact-to-sites",
+      "path": "skills/publish-artifact-to-sites/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/SKILL.md"
+    },
+    {
+      "name": "data-analytics:validate-data",
+      "path": "skills/validate-data/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/SKILL.md"
+    },
+    {
+      "name": "data-analytics:visualize-data",
+      "path": "skills/visualize-data/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/SKILL.md"
+    },
+    {
+      "name": "cloud-environment-onboarding:setup",
+      "path": "skills/setup/SKILL.md",
+      "source": "skill://plugin_connector_1p_ed5feb9070a08191b08c81c47947bc16/setup/SKILL.md"
+    },
+    {
+      "name": "ai-shark-tank-council",
+      "path": "skills/ai-shark-tank-council/SKILL.md",
+      "source": "sediment://file_00000000ac4c820697133fddf29cf9e8",
+      "additional_source": "sediment://file_0000000005908206ab12efee8db6ddb0"
+    }
+  ],
+  "files": [
+    {
+      "path": "skills/assess-patch-risk/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk/SKILL.md",
+      "sha256": "b7337a909fe0ea7f3b203178df60161ea42236405c0bb8697d43ec5736be744b"
+    },
+    {
+      "path": "skills/attack-path-analysis/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/SKILL.md",
+      "sha256": "9f9f45603c68a1e796d8151b3373842aa7e89f0e1dc8e985f7ab1bb342547444"
+    },
+    {
+      "path": "skills/deep-security-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan/SKILL.md",
+      "sha256": "e3e758d1a6b96b42453fc631b58e04e851cec71318b18d53e2d1c344f6edc4db"
+    },
+    {
+      "path": "skills/define-security-policy/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy/SKILL.md",
+      "sha256": "2817e1a03980a7ebea478c8d9e6c622e3c6205123e767a1e32f0204c06729cc7"
+    },
+    {
+      "path": "skills/finding-discovery/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/SKILL.md",
+      "sha256": "1d3a159a5ed83722ddf7369dad9f7788e283454a8ee963cef35ccd8102ea8b0e"
+    },
+    {
+      "path": "skills/fix-finding/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding/SKILL.md",
+      "sha256": "ba7311f43b2c0742da0d5c6bdb2f0b26601c09cc59747cf8c62a09f8d0bb86d2"
+    },
+    {
+      "path": "skills/propose-security-hardening/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening/SKILL.md",
+      "sha256": "ad07d88da7c2bc9e551849cdde686b0daad380ed0aac798e6c06444681d75959"
+    },
+    {
+      "path": "skills/security-diff-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/SKILL.md",
+      "sha256": "0a4c519ad713585876ea7eb0a8af4b59892c86746f4c69851db9ab347b7fad2f"
+    },
+    {
+      "path": "skills/security-scan/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/SKILL.md",
+      "sha256": "5b8f5d7debeca14c6b37e8e7ba737671362b8eb4b7f49e693c99c6bd04bc8fa0"
+    },
+    {
+      "path": "skills/threat-model/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/SKILL.md",
+      "sha256": "f45f02d9f607ec6797b730c71b15310f971403193cc56a984a1cbb1710b495ee"
+    },
+    {
+      "path": "skills/track-findings/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/SKILL.md",
+      "sha256": "8e3726e86ef0df509f1a635961f268e1bf04a4622a83e21c1d079f546cc61dcb"
+    },
+    {
+      "path": "skills/triage-finding/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/SKILL.md",
+      "sha256": "70b0e771f286443ea32bbf466ad378b36f9123b4aa171ab02c6680fdbdb704f9"
+    },
+    {
+      "path": "skills/validation/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/SKILL.md",
+      "sha256": "3c4660f79b12a92728e6bb25027064c3a911d0960d39aeafc8fda9e42ce517a5"
+    },
+    {
+      "path": "skills/verify-fix/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/verify-fix/SKILL.md",
+      "sha256": "3d4530484c7e4c18b6afe7c6527247e96517dce1ebd1bda9d349cd367ecb0ae3"
+    },
+    {
+      "path": "skills/vulnerability-writeup/SKILL.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup/SKILL.md",
+      "sha256": "d08582d9963ce3bfbc3fe81b6e85a01e6fe306713d7951bfd8dd2fbc3df75de4"
+    },
+    {
+      "path": "skills/public-equity-investing/SKILL.md",
+      "source": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing/SKILL.md",
+      "sha256": "63a63b89e5a65de1f4b5ef23f8a60ad01655dfbbb43c07018f4da29a1d32943d"
+    },
+    {
+      "path": "skills/analyze-data-quality/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/analyze-data-quality/SKILL.md",
+      "sha256": "b55f1fea16306899bc28060d2a46c5318e15f85da62f3f533926861458a6dc15"
+    },
+    {
+      "path": "skills/build-dashboard/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/SKILL.md",
+      "sha256": "d3d3f4a3daf77c5a099e6fc13b7ab6d975688f80a6a927e731dc32e118f705f0"
+    },
+    {
+      "path": "skills/build-report/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/SKILL.md",
+      "sha256": "a464dc6bcda8bf5659ba951a9ccba52020cf9c5d6f5f40e05d0e6a42149b51cf"
+    },
+    {
+      "path": "skills/create-data-context/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/SKILL.md",
+      "sha256": "dd46e2acf43bf3fd0e7290ddee9ed4f4b97eea23c27a7f031af225a1c71c88e8"
+    },
+    {
+      "path": "skills/design-kpis/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/design-kpis/SKILL.md",
+      "sha256": "6f3f3841371e4269d8bc6be406537145de3e86d7ca8d34d65af21548dfff2d46"
+    },
+    {
+      "path": "skills/gather-business-context/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/gather-business-context/SKILL.md",
+      "sha256": "c61aaab29796c5c5a101f8d802a9ab0d1c4366e31a5acadddec56ca4849d7237"
+    },
+    {
+      "path": "skills/index/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/SKILL.md",
+      "sha256": "a139924dda9dcab3e0207f69947b68de2b45f5d1bd997548c304735de397271e"
+    },
+    {
+      "path": "skills/jupyter-notebooks/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/jupyter-notebooks/SKILL.md",
+      "sha256": "91a1a7f03544d4136544a60ef98e750ed694ab85768815861bbc7c4eec08a987"
+    },
+    {
+      "path": "skills/kpi-reporting/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/kpi-reporting/SKILL.md",
+      "sha256": "e790badb05ee3d77b68815d57658e350d26737b10e1b9bb8d2d30d1ad335b3e5"
+    },
+    {
+      "path": "skills/market-sizing/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/market-sizing/SKILL.md",
+      "sha256": "ed8661862b1ed7d0da1dc5d0d418cc8e631df81345af087e40eedcdf4e0b2a9b"
+    },
+    {
+      "path": "skills/metric-diagnostics/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/metric-diagnostics/SKILL.md",
+      "sha256": "e3a591bf256a84cfdb59efdc4ff5a1e6938d7e2a2a42f43144e5ad204bf054b2"
+    },
+    {
+      "path": "skills/product-business-analysis/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/product-business-analysis/SKILL.md",
+      "sha256": "036b89f9cc9c982fad224cd17e3d93339e5eef8080bbe3d8d2b28731a0a62113"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/SKILL.md",
+      "sha256": "cf2f48b318af56a8902b7ec804bb44b62491f18a142a0276c68e870d271015f0"
+    },
+    {
+      "path": "skills/validate-data/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/SKILL.md",
+      "sha256": "8f67c4ccd8fe55555a3d0f1d0a1d798279d08ef40473b19c228422123ae587dd"
+    },
+    {
+      "path": "skills/visualize-data/SKILL.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/SKILL.md",
+      "sha256": "91868fdcc816e487ad65f188c4911ce98f400692cd5024157e7ddcb37cc1912b"
+    },
+    {
+      "path": "skills/setup/SKILL.md",
+      "source": "skill://plugin_connector_1p_ed5feb9070a08191b08c81c47947bc16/setup/SKILL.md",
+      "sha256": "c928e7155e6b23d27e1989527d161973863e0a8a5f0c19934cee9a1b967ebfc8"
+    },
+    {
+      "path": "skills/assess-patch-risk/references/risk-rubric.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk/references/risk-rubric.md",
+      "sha256": "078a71175191580791685808980cb1815dc97265cfee8c0ddad1f4d3b8203b4a"
+    },
+    {
+      "path": "skills/assess-patch-risk/scripts/validate_patch_risk_assessment.py",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk/scripts/validate_patch_risk_assessment.py",
+      "sha256": "b57a804b1e30c94ed01d5a3a36f8a31b15a6e3b9f751a41c5ade07ff35019d77"
+    },
+    {
+      "path": "skills/attack-path-analysis/references/severity-policy.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/references/severity-policy.md",
+      "sha256": "44719bb96a1065df7683a4f7968145efd3b3f365ec95c22a4bed5b20b5d8a0a1"
+    },
+    {
+      "path": "skills/attack-path-analysis/references/attack-path-facts.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/references/attack-path-facts.md",
+      "sha256": "8c8f1abb46ddf045d76908df78e3a273da8d61aaa0f37fc992534a3ddfe42430"
+    },
+    {
+      "path": "skills/propose-security-hardening/references/proposal-format.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening/references/proposal-format.md",
+      "sha256": "6c0000722629098365afbf6809c3402121f90438600fb574fbc2c77aeb649ba4"
+    },
+    {
+      "path": "skills/security-scan/references/desktop-scan.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/references/desktop-scan.md",
+      "sha256": "fc20c0a72913cf88f99879091c5b64e4161a42670e84bff29b629210006cd860"
+    },
+    {
+      "path": "skills/track-findings/references/github-security-advisories.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/references/github-security-advisories.md",
+      "sha256": "f56010d265d0ce56e555dd73a92777a6d3be8f5d31bd2af7ff163423a667d10e"
+    },
+    {
+      "path": "skills/track-findings/references/jira.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/references/jira.md",
+      "sha256": "05affbdefbfd8054d08f16e5fe15729ade440b5627a4561f8693bd97fb3a3ea2"
+    },
+    {
+      "path": "skills/triage-finding/references/triage-result-contract.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/references/triage-result-contract.md",
+      "sha256": "321027c102cf36119376ef86f0701a4a7c6fc22e46d28fd240639aae156b134a"
+    },
+    {
+      "path": "skills/triage-finding/references/ticket-intake.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/references/ticket-intake.md",
+      "sha256": "bd545655e0402f5f326f34191a67b6dd30c382914e9ae81b2e66ad745860e78a"
+    },
+    {
+      "path": "skills/triage-finding/references/github-rest-intake.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/references/github-rest-intake.md",
+      "sha256": "f026bef041ca92f3d9b47a131794aa54e98cf8d7716fae3f71ab53e8ab09c79f"
+    },
+    {
+      "path": "skills/validation/references/validation-guidance.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/references/validation-guidance.md",
+      "sha256": "42f7a9d85b78d0deb5e6eda82b8c59ed101c40d36065833b9cf39fe50699e255"
+    },
+    {
+      "path": "skills/vulnerability-writeup/references/report-format.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup/references/report-format.md",
+      "sha256": "60568466f7057562d7359dc3a396632c760c147582603896d7e569a77487d0b1"
+    },
+    {
+      "path": "skills/build-report/references/narrative-style.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/references/narrative-style.md",
+      "sha256": "303a87818da47a013ee0d23c25c5962e9d827f154a40b055948b40186eb7890f"
+    },
+    {
+      "path": "skills/build-report/references/report-archetypes.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/references/report-archetypes.md",
+      "sha256": "45d51dc532ca4c2fade8b0b6c7bfcdbae4a81c0740fd51cee1c623cc1ee4c847"
+    },
+    {
+      "path": "skills/build-report/specifications/executive-report.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/specifications/executive-report.md",
+      "sha256": "181116d7b5c16fd433ba22e854b84624637915fed965fa4be25aac489802548e"
+    },
+    {
+      "path": "skills/build-report/specifications/technical-report.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/specifications/technical-report.md",
+      "sha256": "16005ad7b4ac06fa461cd616694976f3b54c8972263de7649b0bfd0a63b72f2f"
+    },
+    {
+      "path": "skills/create-data-context/references/data-context-authoring.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/references/data-context-authoring.md",
+      "sha256": "26225abf4720274325e7b4b0d93e71bc8dd5a099642b6d80afc69de6b754cfca"
+    },
+    {
+      "path": "skills/create-data-context/references/sample-context-skill.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/references/sample-context-skill.md",
+      "sha256": "9ef081059b90803ddbe20eaa988a65a45db0a68b4a72bd9ca950e470909e8c1b"
+    },
+    {
+      "path": "skills/create-data-context/references/packaging-and-sharing.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/references/packaging-and-sharing.md",
+      "sha256": "aa1d1a579224738c6502f3b8cd19205113e7ff3bbe985adee746b36a543b81e6"
+    },
+    {
+      "path": "skills/kpi-reporting/references/report-templates.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/kpi-reporting/references/report-templates.md",
+      "sha256": "463eeded2b6455de589ed845ff2857064f88d1c148dc31b80f99d2655101d95d"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/references/windows-publication.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/references/windows-publication.md",
+      "sha256": "997aeb727f47e5599c6edb94d58bbe3905d0a6acaf1c130b3fc13d32ec5ddd8d"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/references/publication-source.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/references/publication-source.md",
+      "sha256": "f2e79e6704c66ad357b56093201c6813615c179f7ccd4c08e5bc1d118a9cadd5"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/package-data-app-for-sites.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/package-data-app-for-sites.mjs",
+      "sha256": "b0406f38f1cdcfd70b42bebdb185919b254996db7318034db1ed13023aae1842"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/upload-data-app-assets.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/upload-data-app-assets.mjs",
+      "sha256": "10a16d43488f477eee2458255d00e3e8bec047be7b6d2dac414f7da45fce022b"
+    },
+    {
+      "path": "skills/validate-data/references/deep-review.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/references/deep-review.md",
+      "sha256": "55a158838ee3c6169430639576ddc328d6885f8288fc3b1ef7a55a0f6f4976da"
+    },
+    {
+      "path": "skills/setup/references/onboarding.md",
+      "source": "skill://plugin_connector_1p_ed5feb9070a08191b08c81c47947bc16/setup/references/onboarding.md",
+      "sha256": "0525c3bf2f2b6f88830cbab6289dbd263c689404db44834f4a59fcfa38706cfa"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publish-data-app.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publish-data-app.mjs",
+      "sha256": "db479cbfafcbaf4813682966ab1b349eff45f473ca4f5d6f48c22a3ccd0f8afb"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-source.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-source.mjs",
+      "sha256": "ef612a47a1b42462339143a40eea84d2696d622a803baa643daa48fb3557e020"
+    },
+    {
+      "path": "skills/validate-data/references/component-verification.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/references/component-verification.md",
+      "sha256": "e97f6ba39dcc1600760d8418c6989b8606801455a3219bfe02012fe1aba7ea1d"
+    },
+    {
+      "path": "skills/security-scan/references/scan-artifacts-and-ledger.md",
+      "source": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/references/scan-artifacts-and-ledger.md",
+      "sha256": "443084c974eb80747a6dc4e092c7fca55f412ca5ab3f14e2d27dc1223cc690a4"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-secrets.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-secrets.mjs",
+      "sha256": "2b57c81b7ed85c99b8aa2d00c2c175dd405b81c81ab8e767c20838dbb2ba5bd2"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-assets.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-assets.mjs",
+      "sha256": "585a8806f6db0b4c0225b1af6c19b7446f4c0772b396a35b18c152ac0d8faf16"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-snapshot-index.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-snapshot-index.mjs",
+      "sha256": "a3f56c49fafe6db2c45be8c064ee8abd7d73cbf16cf5abe327b585957a10da63"
+    },
+    {
+      "path": "skills/validate-data/references/coverage-record.md",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/references/coverage-record.md",
+      "sha256": "1f97d07bcf27e756798b0edf1d4e6c2dd2ed7cd65fd1ef562488394d2883c96b"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-archive.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-archive.mjs",
+      "sha256": "5c31d44e5f74af4c42f3514094335aebca44b664a195076263aba4abd2df3eb0"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-git.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-git.mjs",
+      "sha256": "f80e5a8a4ecfe9c2a8cf7acc5f79908755aea03c71b5082ff4245dde60905925"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-git-process.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-git-process.mjs",
+      "sha256": "5c8132c8e1e7a734b0c2fce47e311b68ecd9750ba42aac93f9a3e72139e3cda9"
+    },
+    {
+      "path": "skills/publish-artifact-to-sites/scripts/publication-scan-streams.mjs",
+      "source": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/publication-scan-streams.mjs",
+      "sha256": "19d54277693426fdd3db71ee3011bd6c9a1b21fe314407281404346c8f291a57"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/SKILL.md",
+      "source": "sediment://file_00000000ac4c820697133fddf29cf9e8",
+      "sha256": "07f32535635c4d437bfa0a3c7f588ebbd3ac0f7cbe854d86c589ceae92d03a2c"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/agents/openai.yaml",
+      "source": "sediment://file_00000000491081fd8167236a24d999e3",
+      "sha256": "a415bb5394a5d3ff1b84eb86041c9addd6dc90a24762b89e6d469a7b6047dc61"
+    },
+    {
+      "path": "skills/ai-shark-tank-council/assets/icon.svg",
+      "source": "sediment://file_00000000721882069350de332304ee4f",
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    }
+  ],
+  "unavailable_read_attempts": [
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk",
+      "skill": "codex-security:assess-patch-risk",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/schemas/patch-risk-assessment.schema.json"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk",
+      "skill": "codex-security:assess-patch-risk",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/assess-patch-risk/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis",
+      "skill": "codex-security:attack-path-analysis",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis",
+      "skill": "codex-security:attack-path-analysis",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/attack-path-analysis/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan",
+      "skill": "codex-security:deep-security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan/references/core-scan.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan",
+      "skill": "codex-security:deep-security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/deep-security-scan/references/scan-prologue.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy",
+      "skill": "codex-security:define-security-policy",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy/scripts/launch_codex_security_mcp"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy",
+      "skill": "codex-security:define-security-policy",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy/references/security-guidance.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/references/security-guidance.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/references/scan-artifacts-and-ledger.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/scripts/generate_rank_input.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery",
+      "skill": "codex-security:finding-discovery",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/finding-discovery/references/severity-policy.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding",
+      "skill": "codex-security:fix-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding",
+      "skill": "codex-security:fix-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/fix-finding/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening",
+      "skill": "codex-security:propose-security-hardening",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening",
+      "skill": "codex-security:propose-security-hardening",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/propose-security-hardening/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/references/config-preflight.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/references/desktop-config-preflight.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/scripts/generate_in_scope_files.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan/references/final-report.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/references/scan-prologue.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/scripts/generate_rank_input.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/references/core-scan.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan/scripts/finalize_scan_contract.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model",
+      "skill": "codex-security:threat-model",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model",
+      "skill": "codex-security:threat-model",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model",
+      "skill": "codex-security:threat-model",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/references/security-guidance.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model",
+      "skill": "codex-security:threat-model",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model/references/threat-model.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings",
+      "skill": "codex-security:track-findings",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/scripts/validate_tracking_source.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings",
+      "skill": "codex-security:track-findings",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings/references/finding-detail-fields.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding",
+      "skill": "codex-security:triage-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/references/static-finding-assessment.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding",
+      "skill": "codex-security:triage-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding/references/security-guidance.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation",
+      "skill": "codex-security:validation",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation",
+      "skill": "codex-security:validation",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation",
+      "skill": "codex-security:validation",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation/references/static-finding-assessment.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/verify-fix",
+      "skill": "codex-security:verify-fix",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/verify-fix/references/static-finding-assessment.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup",
+      "skill": "codex-security:vulnerability-writeup",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing/scripts/user_context_preflight.py"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data",
+      "skill": "data-analytics:visualize-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/shared/shared-skill-instructions.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data",
+      "skill": "data-analytics:validate-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/analyze-data-quality",
+      "skill": "data-analytics:analyze-data-quality",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/analyze-data-quality/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data",
+      "skill": "data-analytics:visualize-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/shared/data-app.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data",
+      "skill": "data-analytics:visualize-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/shared/analysis-quality.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/shared/dashboard-quality.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/examples/manifest.json"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/docs/components/sortable-layout.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/docs/components/comparison-formatting.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/templates/data-app/examples/manifest.json"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/scripts/prepare-data-app.mjs"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/templates/data-app/base/docs/components/sortable-layout.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard",
+      "skill": "data-analytics:build-dashboard",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-dashboard/templates/data-app/base/docs/components/comparison-formatting.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/assets/demo-product-growth.csv"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/examples/reports/adoption-retention/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/examples/reports/activation-diagnostics/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/examples/reports/delivery-diagnostic/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/assets/demo-product-growth.csv"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/templates/data-app/base/examples/reports/adoption-retention/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/templates/data-app/base/examples/reports/activation-diagnostics/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/templates/data-app/base/examples/reports/delivery-diagnostic/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report/scripts/prepare-data-app.mjs"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context",
+      "skill": "data-analytics:create-data-context",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/create-data-context/references/scan"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/design-kpis",
+      "skill": "data-analytics:design-kpis",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/design-kpis/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/references/inline-chart-renderer.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/references/native-inline-visualizations.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/references/inline-chart-renderer.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/scripts/render-inline-chart.mjs"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/references/native-inline-visualizations.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index",
+      "skill": "data-analytics:index",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/index/assets/demo-product-growth.csv"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/kpi-reporting",
+      "skill": "data-analytics:kpi-reporting",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/kpi-reporting/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/market-sizing",
+      "skill": "data-analytics:market-sizing",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/market-sizing/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/metric-diagnostics",
+      "skill": "data-analytics:metric-diagnostics",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/metric-diagnostics/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/product-business-analysis",
+      "skill": "data-analytics:product-business-analysis",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/product-business-analysis/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/templates/data-app/base/src/owner-email.js"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites/scripts/verify-protected-runtime.mjs"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data",
+      "skill": "data-analytics:validate-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/validate-data/references/inline-sources-receipt.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data",
+      "skill": "data-analytics:visualize-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/examples/reports/contextual-stories/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data",
+      "skill": "data-analytics:visualize-data",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/visualize-data/templates/data-app/base/examples/reports/contextual-stories/README.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/vulnerability-writeup",
+      "skill": "codex-security:vulnerability-writeup",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/artifact-storage.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/validation",
+      "skill": "codex-security:validation",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/scan-artifacts.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/core-scan.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/scan-prologue.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding",
+      "skill": "codex-security:triage-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/security-guidance.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/define-security-policy",
+      "skill": "codex-security:define-security-policy",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/scripts/launch_codex_security_mcp"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/scripts/generate_rank_input.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/config-preflight.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/desktop-config-preflight.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/final-report.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-diff-scan",
+      "skill": "codex-security:security-diff-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/scripts/generate_in_scope_files.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/security-scan",
+      "skill": "codex-security:security-scan",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/scripts/finalize_scan_contract.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/threat-model",
+      "skill": "codex-security:threat-model",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/threat-model.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings",
+      "skill": "codex-security:track-findings",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/finding-detail-fields.md"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/track-findings",
+      "skill": "codex-security:track-findings",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/scripts/validate_tracking_source.py"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/triage-finding",
+      "skill": "codex-security:triage-finding",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/schemas/findings.schema.json"
+    },
+    {
+      "package": "skill://Plugin_1e648473be9c8191a91ac3947151af55/verify-fix",
+      "skill": "codex-security:verify-fix",
+      "resource": "skill://Plugin_1e648473be9c8191a91ac3947151af55/references/static-finding-assessment.md"
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/shared/..."
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/shared/invocation-policy.md"
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/shared/plugin-routing-playbook.md"
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/shared/final-deliverable-framework.md"
+    },
+    {
+      "package": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/public-equity-investing",
+      "skill": "public-equity-investing:public-equity-investing",
+      "resource": "skill://Plugin_b31b1ece54648191a6760ea4580bba3e/shared/deliverable-intake-policy.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/build-report",
+      "skill": "data-analytics:build-report",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/examples/README.md"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/templates/data-app/base/src/streaming-json.js"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/scripts/data-app-separate.mjs"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://templates/data-app/base/src/streaming-json.js"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://templates/data-app/base/src/charting/chart-theme.js"
+    },
+    {
+      "package": "skill://Plugin_fc9843a6fb34819195d6c7802398a8a7/publish-artifact-to-sites",
+      "skill": "data-analytics:publish-artifact-to-sites",
+      "resource": "skill://templates/data-app/base/src/dashboard-url-state.js"
+    }
+  ],
+  "missing_user_uploaded_resources": [
+    {
+      "skill": "ai-shark-tank-council",
+      "path": "skills/ai-shark-tank-council/references/evaluation-cases.md",
+      "status": "Referenced in uploaded SKILL.md; not supplied with the upload"
+    }
+  ]
+}

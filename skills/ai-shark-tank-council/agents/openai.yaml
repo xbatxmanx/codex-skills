@@ -1,0 +1,18 @@
+interface:
+  display_name: ai shark tank council
+  short_description: Evaluate a business, product, service, or company idea through
+    a staged Shark Tank-style investment council. Trigger when the user asks to analyze,
+    validate, invest in, critique, test, or pitch an idea or startup. Collect key
+    inputs first; produce role-separated market, product, investor, customer, operations,
+    and opposing-counsel assessments; facilitate a challenge round; score weighted
+    criteria; and issue one evidence-calibrated decision. Supports economical sequential
+    simulation and professional independent-agent workflows where actually available.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
