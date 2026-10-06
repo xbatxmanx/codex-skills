@@ -58,3 +58,14 @@ Known gaps include shared security references, scripts and schemas; shared Data 
 The import scan found no clear actual secrets or personal information; its only initial email-pattern match was the generic SSH example `git@github.com:owner/repo.git`. Pattern checks cannot establish that every possible form of sensitive information is absent.
 
 Arabic and English explanations are written separately from original skill content, with one guide for each skill. This documentation work does not execute skill workflows, install their source plugins, or establish runtime readiness. The Shark Tank and bilingual documentation additions were prepared locally first. Consult the Git history and pull requests for their publication status.
+
+
+## معالجة جودة المستودع / Repository quality improvements
+
+أُضيف فحص تلقائي للسلامة والروابط والشرح الثنائي والأيقونات وأنماط البيانات الحساسة، مع اختبارات سلبية لأداة الفحص وملف CODEOWNERS. أضيف إشعار حقوق محافظ؛ لا يحوّل مواد المصدر إلى مواد مفتوحة الترخيص ولا يثبت إذن إعادة توزيعها.
+
+أضيف `references/evaluation-cases.md` لـShark Tank من إنشاء المستودع، موسوم بوضوح بأنه ليس ملف المصدر المفقود، ومسجل منفصلًا. الملفات الأصلية الـ74 لم تتغير. حالات التقييم الأربع لم تُنفّذ؛ اختبارات أداة سلامة المستودع مستقلة عنها.
+
+Repository checks now cover integrity, links, bilingual guides, icons, and sensitive-data patterns, with negative tests for the checker and a CODEOWNERS file. A conservative rights notice does not relicense source material or establish redistribution permission.
+
+A clearly identified maintainer-authored Shark Tank evaluation supplement supplies the missing reference path and is recorded separately. The 74 original files remain unchanged. Its four behavioral cases are unrun; checker unit tests are a separate suite.

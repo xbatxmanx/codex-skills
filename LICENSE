@@ -1,0 +1,21 @@
+Rights notice — no blanket redistribution license
+
+No blanket license is granted for this repository.
+
+Original skill instructions and supporting files under skills/, and copies of
+source material elsewhere, remain subject to the rights and terms of their
+respective owners. Public visibility and inclusion in this repository do not
+establish permission to copy, modify, sublicense, or redistribute those files.
+Their recorded provenance is in IMPORT-MANIFEST.json. Source license or
+permission evidence has not been supplied for all imported material.
+
+No public reuse license is granted for the repository-maintained documentation,
+validation scripts, tests, workflow configuration, or other newly authored
+material. Obtain permission from the applicable rights holder before reuse.
+This notice does not claim ownership of third-party material, change any existing
+source license, or grant rights the repository maintainer does not hold.
+
+This is a rights notice, not an open-source license. It does not resolve whether
+all imported material may be redistributed. A rights holder or maintainer should
+review the source permissions and supply the applicable notices before describing
+this archive as licensed for reuse.
