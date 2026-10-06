@@ -70,10 +70,13 @@ proof of execution.
 
 ## حقوق الاستخدام / Usage rights
 
-راجع [إشعار الحقوق](../LICENSE). لا يمنح المستودع ترخيص إعادة استخدام عام، ولا
-يفرض ترخيصًا جديدًا على مواد الغير. تحتاج حقوق إعادة توزيع المصادر إلى دليل
-من أصحابها؛ الإشعار لا يعوّض ذلك الدليل.
+راجع [إشعار الحقوق](../LICENSE). صرّح صاحب المستودع بأنه مؤلف جميع المهارات
+وملفاتها المساعدة بمساعدة ChatGPT. بناءً على هذا التصريح، أُزيل افتراض أن ملفات
+المهارات مملوكة لأصحاب مصادر منفصلين. لا يزال المستودع دون ترخيص إعادة استخدام
+عام؛ الظهور للعامة ليس إذنًا مفتوحًا. التصريح مسجل، لا تحقق مستقل من التأليف.
 
-See the [rights notice](../LICENSE). No blanket reuse license is granted, and no
-new license is imposed on third-party material. Source redistribution permissions
-require evidence from their rights holders; this notice does not supply it.
+See the [rights notice](../LICENSE). The repository owner states that they authored
+all skills and supporting files with ChatGPT assistance. Based on this declaration,
+the earlier assumption of separate source-file owners has been removed. No blanket
+reuse license is granted; public visibility is not open permission. The statement
+is recorded as an author declaration, not independently verified authorship.
