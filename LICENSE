@@ -1,32 +1,20 @@
-Copyright (c) 2026 xbatxmanx. All rights reserved.
-
-The repository owner states that they authored all 33 skills and their supporting
-files with assistance from ChatGPT. This notice records that author declaration;
-it does not independently verify authorship or determine copyright eligibility.
-Import paths in IMPORT-MANIFEST.json document how files were retrieved for this
-repository and do not, by themselves, identify a different author.
-
-No general permission is granted to copy, modify, distribute, sublicense, or
-commercially reuse the contents of this repository, except as permitted by
-applicable law or separate written permission from the rights holder.
-Public visibility does not constitute an open-source license.
-
-This notice covers rights held by the repository owner. It does not claim
-exclusive rights over third-party trademarks, external services, cited material,
-or any content for which such rights do not exist.
-
-إشعار الحقوق
-حقوق النشر (c) 2026 xbatxmanx. جميع الحقوق محفوظة.
-
-صرّح صاحب المستودع بأنه ألّف المهارات الـ33 وملفاتها المساعدة بمساعدة ChatGPT.
-يسجل هذا الإشعار تصريحه، ولا يمثل تحققًا مستقلًا من التأليف أو حكمًا قانونيًا
-بمدى أهلية كل محتوى للحماية. مسارات الاستيراد توثّق طريقة استرجاع الملفات،
-ولا تحدد وحدها مؤلفًا مختلفًا.
+جميع الحقوق محفوظة لصاحب المستودع.
 
 لا يُمنح إذن عام بنسخ المحتوى أو تعديله أو توزيعه أو ترخيصه أو إعادة استخدامه
 تجاريًا، إلا حيث يسمح القانون المعمول به أو بإذن مكتوب منفصل من صاحب الحقوق.
 ظهور المستودع للعامة لا يجعله مفتوح الترخيص.
 
-يغطي الإشعار الحقوق التي يملكها صاحب المستودع، ولا يدّعي حقوقًا حصرية في
+يغطي هذا الإشعار الحقوق التي يملكها صاحب المستودع، ولا يدّعي حقوقًا حصرية في
 علامات الغير أو الخدمات الخارجية أو المواد المستشهد بها أو محتوى لا تثبت له
 هذه الحقوق.
+
+All rights reserved by the repository owner.
+
+No general permission is granted to copy, modify, distribute, sublicense, or
+commercially reuse the repository contents, except as permitted by applicable law
+or separate written permission from the rights holder. Public visibility does not
+constitute an open-source license.
+
+This notice covers rights held by the repository owner. It does not claim
+exclusive rights over third-party trademarks, external services, cited material,
+or any content for which such rights do not exist.

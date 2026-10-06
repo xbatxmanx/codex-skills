@@ -176,6 +176,6 @@ codex-skills/
 - [اعتماديات كل مهارة / Skill dependencies](docs/DEPENDENCIES.md)
 - [إشعار الحقوق / Rights notice](LICENSE)
 
-**الملكية:** صرّح صاحب المستودع `xbatxmanx` بأنه ألّف جميع المهارات وملفاتها المساعدة بمساعدة ChatGPT. جميع الحقوق محفوظة؛ لا يوجد ترخيص إعادة استخدام عام.
+**جميع الحقوق محفوظة لصاحب المستودع.** لا يوجد ترخيص إعادة استخدام عام.
 
-**Ownership:** Repository owner `xbatxmanx` states that they authored all skills and supporting files with ChatGPT assistance. All rights reserved; no blanket reuse license is granted.
+**All rights reserved by the repository owner.** No blanket reuse license is granted.
