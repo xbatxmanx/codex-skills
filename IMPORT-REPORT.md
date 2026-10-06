@@ -71,19 +71,10 @@ Repository checks now cover integrity, links, bilingual guides, icons, and sensi
 A clearly identified maintainer-authored Shark Tank evaluation supplement supplies the missing reference path and is recorded separately. The 74 original files remain unchanged. Its four behavioral cases are unrun; checker unit tests are a separate suite.
 
 
-## توضيح الملكية — 6 أكتوبر 2026 / Ownership clarification — 6 October 2026
+## إشعار الحقوق / Rights notice
 
-صرّح صاحب المستودع بأنه ألّف جميع المهارات الـ33 وملفاتها المساعدة بمساعدة
-ChatGPT، وليس مهارة Shark Tank وحدها. حُدّث إشعار الحقوق وشرح حالة المستودع
-وفق هذا التصريح، وهو يحل محل افتراضات حقوق المصادر المنفصلة المذكورة في
-ملاحظات الاستيراد السابقة. بقيت مسارات الاسترجاع والبصمات كما هي؛ فهي سجل
-استيراد وليست تحديدًا مستقلًا لصاحب الحقوق. جميع الحقوق محفوظة دون ترخيص
-إعادة استخدام عام. لم يُجر تحقق مستقل من التأليف.
+جميع الحقوق محفوظة لصاحب المستودع، دون ترخيص إعادة استخدام عام.
+مسارات الاسترجاع والبصمات في السجل توثّق استيراد الملفات وتظل دون تغيير.
 
-The owner states that they authored all 33 skills and their supporting files with
-ChatGPT assistance, not only Shark Tank. The rights notice and health documentation
-now reflect that declaration, superseding the separate-source ownership assumptions
-in earlier import notes. Retrieval paths and hashes remain unchanged: they record
-import provenance, not an independent determination of rights ownership. All rights
-reserved; no blanket reuse license is granted. Authorship was not independently
-verified.
+All rights reserved by the repository owner; no blanket reuse license is granted.
+Recorded retrieval paths and file hashes document the import and remain unchanged.
