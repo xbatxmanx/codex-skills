@@ -135,7 +135,7 @@ ai-shark-tank-council/
 ```
 
 ملف `openai.yaml` يعرّف اسم العرض والوصف والأيقونة وبعض إعدادات الاستدعاء للواجهات التي تدعم هذه الصيغة. ملف `icon.svg` هو الأيقونة الأصلية. وجود إعدادات منتجات في الملف لا يثبت دعم كل منتج لهذه الحزمة أو تثبيتها فيه.
- لم يكن الملف المساعد `references/evaluation-cases.md` المذكور في التعليمات ضمن المرفقات، لذلك لم يُضف ولم تُشغّل اختبارات التقييم الأربعة المشار إليها.
+ لم يكن الملف المساعد الأصلي `references/evaluation-cases.md` ضمن المرفقات. أُضيف لاحقًا [ملف حالات اختبار من إنشاء المستودع](../skills/ai-shark-tank-council/references/evaluation-cases.md)، مع تمييزه عن المصدر المفقود؛ حالات التقييم الأربع لم تُشغّل بعد.
 
 التحقق من الأسواق والمنافسين يحتاج إلى مصادر خارجية متاحة في جلسة التشغيل، والوضع الاحترافي يحتاج إلى أدوات تفويض مسموحة. هذا الدليل يشرح المهارة، ولا يثبت تشغيل سير عملها أو إجراء بحث سوق فعلي.
 
@@ -254,4 +254,4 @@ It concludes with **7-day and 30-day validation plans**, measurable decision gat
 
 The uploaded `SKILL.md`, `agents/openai.yaml`, and `assets/icon.svg` are preserved without editing. The interface configuration describes display metadata, icons, and invocation settings for compatible hosts; product entries do not prove installation or compatibility on every product.
 
-`references/evaluation-cases.md` is mentioned in the original skill but was not uploaded. Its four evaluation tests were not run. Market verification requires external sources, and professional mode requires permitted delegation tools. This guide explains the workflow without claiming an actual business evaluation or market study was performed.
+The original `references/evaluation-cases.md` was not uploaded. A clearly labeled [repository-authored test supplement](../skills/ai-shark-tank-council/references/evaluation-cases.md) now supplies the referenced path; its four forward tests have not been executed. Market verification requires external sources, and professional mode requires permitted delegation tools. This guide explains the workflow without claiming an actual business evaluation or market study was performed.

@@ -1085,7 +1085,14 @@
     {
       "skill": "ai-shark-tank-council",
       "path": "skills/ai-shark-tank-council/references/evaluation-cases.md",
-      "status": "Referenced in uploaded SKILL.md; not supplied with the upload"
+      "status": "Original source file was not uploaded. A clearly labeled maintainer-authored supplement now occupies this path; the original has not been recovered."
+    }
+  ],
+  "maintainer_added_files": [
+    {
+      "path": "skills/ai-shark-tank-council/references/evaluation-cases.md",
+      "source": "Repository-maintained supplement; not the unavailable original resource",
+      "sha256": "6c90d8ee9dc501480f5ab7b361f44c874e24bb0c2468f39ce53f2f77ba4ce0c9"
     }
   ]
 }

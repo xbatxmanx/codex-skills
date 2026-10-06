@@ -67,6 +67,8 @@ This is a request template, not an execution result. Replace the generic referen
 - [`agents/openai.yaml`](../../skills/ai-shark-tank-council/agents/openai.yaml)
 - [`assets/icon.svg`](../../skills/ai-shark-tank-council/assets/icon.svg)
 
+[حالات تقييم جديدة من إنشاء المستودع / New repository-authored evaluation cases](../../skills/ai-shark-tank-council/references/evaluation-cases.md) — ليست ملف المصدر الأصلي المفقود، ولم تُشغّل بعد. / Not the missing original file; not yet executed.
+
 ## المتطلبات وحدود النسخة / Requirements and archive limits
 
 بعض المهارات تعتمد على مراجع مشتركة أو أدوات MCP أو موصلات غير مرفقة. الملفات المساعدة أعلاه هي الملفات المتاحة فقط، وليست إثباتًا لاكتمال الاعتماديات. راجع [تقرير الاستيراد](../../IMPORT-REPORT.md) و[سجل المصادر](../../IMPORT-MANIFEST.json) و[دليل الاستخدام](../USAGE.md). لم يُختبر تشغيل هذه المهارة ضمن إعداد هذه الوثائق.

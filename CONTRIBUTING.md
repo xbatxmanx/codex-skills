@@ -51,3 +51,15 @@ The library contains the 33 explicitly selected skills recorded in the manifest.
 Before a commit or pull request, show the file-change summary and check results. Scan new files for API keys, passwords, and personal data, then verify local links and original-file hashes.
 
 Document missing dependencies and verification limits. File presence alone does not prove runtime readiness. Follow the owner’s current publishing instructions; local preparation does not authorize a commit, push, pull request, or deployment.
+
+
+## فحوص ما قبل الدمج / Pre-merge checks
+
+```bash
+python3 scripts/check_repository.py
+python3 -m unittest discover -s tests -v
+```
+
+لا تغيّر بصمات الملفات لإخفاء تعديل غير مقصود. ملفات الاختبار والأدوات الجديدة تُوثّق منفصلة عن المصادر الأصلية. راجع [إشعار الحقوق](LICENSE) قبل إعادة توزيع مواد المصدر.
+
+Do not change recorded hashes to hide an unintended source edit. New test supplements and tools are documented separately from original material. Review the [rights notice](LICENSE) before redistributing source content.

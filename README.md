@@ -9,7 +9,7 @@
 Security · Data · Public equities · Ideas · Cloud environment
 
 ![Skills](https://img.shields.io/badge/skills-33-2563eb?style=flat-square)
-![Supporting files](https://img.shields.io/badge/supporting_files-41-0f766e?style=flat-square)
+![Supporting files](https://img.shields.io/badge/supporting_files-42-0f766e?style=flat-square)
 ![Languages](https://img.shields.io/badge/docs-Arabic_%2B_English-7c3aed?style=flat-square)
 ![Content](https://img.shields.io/badge/original_content-preserved-475569?style=flat-square)
 
@@ -19,9 +19,9 @@ Security · Data · Public equities · Ideas · Cloud environment
 
 ---
 
-**العربية:** مكتبة تضم 33 مهارة و41 ملفًا مساعدًا، مع شرح عربي وإنجليزي مستقل لكل مهارة. النصوص الأصلية محفوظة دون تغيير؛ اختر المجال، واقرأ الشرح، ثم راجع التعليمات الأصلية.
+**العربية:** مكتبة تضم 33 مهارة و41 ملفًا مساعدًا أصليًا، بالإضافة إلى ملف اختبارات مساعد جديد، مع شرح عربي وإنجليزي مستقل لكل مهارة. النصوص الأصلية محفوظة دون تغيير؛ اختر المجال، واقرأ الشرح، ثم راجع التعليمات الأصلية.
 
-**English:** A library of 33 skills and 41 supporting files, with a separate Arabic and English guide for every skill. Original content is preserved. Choose a category, read its guide, then consult the original instructions.
+**English:** A library of 33 skills and 41 original supporting files, plus one newly authored test supplement, with a separate Arabic and English guide for every skill. Original content is preserved. Choose a category, read its guide, then consult the original instructions.
 
 > **حالة النسخة / Archive status:** بعض المراجع المشتركة وأدوات التشغيل غير مرفقة؛ راجع تقرير الاستيراد قبل الاستخدام. / Some shared references and runtime tools are not bundled; review the import report before use.
 
@@ -164,3 +164,16 @@ codex-skills/
 | [سجل المصادر / Manifest](IMPORT-MANIFEST.json) | مصادر الملفات وبصماتها / File sources and SHA-256 hashes |
 
 الشرح ثنائي اللغة موجود خارج ملفات المهارات الأصلية. لم تُضف مهارة CEO أو مهارة تعليم الصيدلة. / Bilingual explanations are separate from original skill files. The CEO and pharmacy tutoring skills are not included.
+
+
+## الجودة والحقوق / Quality and rights
+
+تُفحص مطابقة المصادر والروابط والتوثيق والأيقونات وأنماط البيانات الحساسة بواسطة `Repository validation`. الفحص لا يشغّل سلوك المهارات أو يثبت اكتمال الموارد الخارجية.
+
+`Repository validation` checks source integrity, links, documentation, icons, and sensitive-data patterns. It does not execute skill behavior or certify external dependencies.
+
+- [حالة المستودع / Repository health](docs/REPOSITORY-HEALTH.md)
+- [اعتماديات كل مهارة / Skill dependencies](docs/DEPENDENCIES.md)
+- [إشعار الحقوق / Rights notice](LICENSE)
+
+**لا يوجد ترخيص إعادة استخدام عام:** ملفات المصدر خاضعة لحقوق أصحابها، والتوثيق والأدوات الجديدة لا تمنح إذنًا مفتوحًا. / **No blanket reuse license:** source files remain subject to their owners’ rights, and no open reuse permission is granted for newly authored documentation or tools.
