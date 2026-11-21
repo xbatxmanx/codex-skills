@@ -17,6 +17,11 @@ Security · Data · Public equities · Ideas · Cloud environment
 
 </div>
 
+
+<!-- atmos-portfolio-navigation -->
+
+> **Explore related projects:** [Local Runtime](https://github.com/xbatxmanx/atmos-local-runtime) · [Workbench](https://github.com/xbatxmanx/atmos-workbench) · [Pixel Office](https://github.com/xbatxmanx/atmos-pixel-office) · [Router](https://github.com/xbatxmanx/Atmos-Router) · [Connect](https://github.com/xbatxmanx/atmos-connect) · [Video Studio](https://github.com/xbatxmanx/atmos-video-studio) · [Private Shield](https://github.com/xbatxmanx/atmos-private-shield) · [FileGuard](https://github.com/xbatxmanx/fileguard)
+
 ---
 
 **العربية:** مكتبة تضم 33 مهارة و41 ملفًا مساعدًا أصليًا، بالإضافة إلى ملف اختبارات مساعد جديد، مع شرح عربي وإنجليزي مستقل لكل مهارة. النصوص الأصلية محفوظة دون تغيير؛ اختر المجال، واقرأ الشرح، ثم راجع التعليمات الأصلية.
